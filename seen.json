@@ -1,4 +1,9 @@
 {
+ "00f5ba4d74df6d64": {
+  "first_seen": "2026-08-01",
+  "title": "Ubuntu Core Software Engineer",
+  "url": "https://jobicy.com/jobs/149996-ubuntu-core-software-engineer"
+ },
  "0316c6768cdbd953": {
   "first_seen": "2026-07-22",
   "title": "Software Engineer - Solutions Engineering",
@@ -24,6 +29,11 @@
   "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
   "url": "https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu"
  },
+ "1ee4772af468e929": {
+  "first_seen": "2026-08-01",
+  "title": "Software Engineer - Data Infrastructure - Kafka",
+  "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka"
+ },
  "1f04a06567f95a2f": {
   "first_seen": "2026-07-22",
   "title": "Software Engineer - (Connect Platform)",
@@ -34,6 +44,11 @@
   "title": "Frontend Developer",
   "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991"
  },
+ "39a49ddf5f3c3105": {
+  "first_seen": "2026-08-01",
+  "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+  "url": "https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch"
+ },
  "3e30da5145c8b02d": {
   "first_seen": "2026-07-22",
   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
@@ -43,6 +58,11 @@
   "first_seen": "2026-07-22",
   "title": "Full-Stack-Developer (PHP/Laravel)",
   "url": "https://www.arbeitnow.com/jobs/companies/meinmpp-gmbh/full-stack-developer-php-laravel-friedrichshafen-328486"
+ },
+ "51a1d53adf81da48": {
+  "first_seen": "2026-08-01",
+  "title": "Software Engineer, Ceph & Distributed Storage",
+  "url": "https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage"
  },
  "53954b46fbedbd7e": {
   "first_seen": "2026-07-29",
@@ -109,6 +129,11 @@
   "title": "Software Engineer GO",
   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634"
  },
+ "87cd85cebf1d247a": {
+  "first_seen": "2026-08-01",
+  "title": "Software Engineer - Data Infrastructure",
+  "url": "https://jobicy.com/jobs/149971-software-engineer-data-infrastructure"
+ },
  "8dbd526cded25ada": {
   "first_seen": "2026-07-21",
   "title": "Frontend Softwareentwickler (m/w/d)",
@@ -154,9 +179,19 @@
   "title": "Software Engineer in Test - Onsite or Remote (FR, UK, DE, NL)",
   "url": "https://jobicy.com/jobs/146800-software-engineer-in-test-onsite-or-remote-fr-uk-de-nl"
  },
+ "e2d5a84765c041b2": {
+  "first_seen": "2026-08-01",
+  "title": "Software Engineer - Cloud Images",
+  "url": "https://jobicy.com/jobs/149978-software-engineer-cloud-images"
+ },
  "eded28f115a7944e": {
   "first_seen": "2026-07-22",
   "title": "Software Engineer - Data",
   "url": "https://jobicy.com/jobs/149499-software-engineer-data"
+ },
+ "f112da2901f52d35": {
+  "first_seen": "2026-08-01",
+  "title": "Linux devices software engineer - snapd",
+  "url": "https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd"
  }
 }
