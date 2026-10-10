@@ -159,6 +159,11 @@
   "title": "Software Engineer, Sustaining Engineering",
   "url": "https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering"
  },
+ "653fbe429897fcc5": {
+  "first_seen": "2026-10-10",
+  "title": "Software Engineer - Java (w/m/d)",
+  "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579"
+ },
  "6707ce5f4e45419d": {
   "first_seen": "2026-09-07",
   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -344,11 +349,6 @@
   "title": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
   "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite"
  },
- "bf0e766af1dffc8d": {
-  "first_seen": "2026-08-25",
-  "title": "Software Engineer",
-  "url": "https://jobicy.com/jobs/151472-software-engineer-8"
- },
  "c113846e310c6124": {
   "first_seen": "2026-10-05",
   "title": "Software Engineer in Network Infrastructure",
@@ -448,10 +448,5 @@
   "first_seen": "2026-10-08",
   "title": "Software Engineer - BrandX",
   "url": "https://www.arbeitnow.co.uk/jobs/companies/olo/remote-software-engineer-brandx-348787"
- },
- "fee13598955d673d": {
-  "first_seen": "2026-08-25",
-  "title": "Product Engineer (Full Stack)",
-  "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack"
  }
 }
