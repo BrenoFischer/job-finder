@@ -1,7 +1,10 @@
-# Job matches - 2026-10-10
+# Job matches - 2026-10-11
 
-**1 new role(s)** since the last run.
+**4 new role(s)** since the last run.
 
-## arbeitnow (1)
+## jobicy (4)
 
-- [Software Engineer - Java (w/m/d)](https://www.arbeitnow.com/jobs/companies/timetoact-group/remote-software-engineer-java-munchen-garmischer-strasse-455579) — **Timetoact Group** (München Garmischer Straße) — _München · Professional · Jobs_
+- [Software Engineer, AI Enablement](https://jobicy.com/jobs/155051-software-engineer-ai-enablement) — **Tailscale** (UK) — _Senior_
+- [Software Engineer - Python - Container Images](https://jobicy.com/jobs/150364-software-engineer-python-container-images) — **Canonical** (APAC,  EMEA,  LATAM,  Canada,  USA) — _Any_
+- [Product Engineer (Full Stack)](https://jobicy.com/jobs/151461-product-engineer-full-stack) — **Maze** (Europe) — _Any_
+- [Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU](https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu) — **Canonical** (APAC,  LATAM,  Canada,  China,  USA) — _Any_
