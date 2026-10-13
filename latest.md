@@ -1,7 +1,7 @@
-# Job matches - 2026-10-12
+# Job matches - 2026-10-13
 
 **1 new role(s)** since the last run.
 
 ## jobicy (1)
 
-- [Software Engineer II - Data Platform](https://jobicy.com/jobs/155066-software-engineer-ii-data-platform) — **Five9** (Portugal) — _Any_
+- [Full Stack Engineer](https://jobicy.com/jobs/155189-full-stack-engineer-3) — **infisical** (Brazil,  Canada,  Europe,  USA) — _Any_
