@@ -1,3 +1,7 @@
-# Job matches - 2026-10-15
+# Job matches - 2026-10-16
 
-_No new matching roles today._
+**1 new role(s)** since the last run.
+
+## jobicy (1)
+
+- [Software Engineer (Technical Leadership)](https://jobicy.com/jobs/150665-software-engineer-technical-leadership) — **Meta** (USA) — _Senior_
