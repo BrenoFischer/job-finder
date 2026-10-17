@@ -59,11 +59,6 @@
   "title": "Software Engineer - Data Infrastructure - Kafka",
   "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka"
  },
- "2230fa2650273240": {
-  "first_seen": "2026-09-01",
-  "title": "Backend / Full Stack Developer (m/w/d)",
-  "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909"
- },
  "281312761aa9c9c1": {
   "first_seen": "2026-10-09",
   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
@@ -99,6 +94,11 @@
   "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
   "url": "https://jobicy.com/jobs/154032-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox"
  },
+ "3455f7c40a8cbe58": {
+  "first_seen": "2026-10-17",
+  "title": "Software engineer",
+  "url": "https://jobicy.com/jobs/150846-software-engineer-3"
+ },
  "3561d480b2950cd7": {
   "first_seen": "2026-09-21",
   "title": "Frontend Engineer",
@@ -129,10 +129,20 @@
   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter"
  },
+ "47dec47ba8601520": {
+  "first_seen": "2026-10-17",
+  "title": "Mid Level Front End Engineer",
+  "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer"
+ },
  "47e819ecd4006d77": {
   "first_seen": "2026-10-11",
   "title": "Software Engineer, AI Enablement",
   "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement"
+ },
+ "4a15513efb0a0277": {
+  "first_seen": "2026-10-17",
+  "title": "Software Engineer II",
+  "url": "https://jobicy.com/jobs/155439-software-engineer-ii"
  },
  "51a1d53adf81da48": {
   "first_seen": "2026-10-03",
@@ -234,11 +244,6 @@
   "title": "Contract Software Engineer - DOM Core Firefox/Gecko",
   "url": "https://jobicy.com/jobs/154028-contract-software-engineer-dom-core-firefox-gecko"
  },
- "82206c7f1ae120c3": {
-  "first_seen": "2026-09-01",
-  "title": "Software Engineer, Content Platform",
-  "url": "https://jobicy.com/jobs/152261-software-engineer-content-platform"
- },
  "836eb40368f299dd": {
   "first_seen": "2026-10-08",
   "title": "Software Engineer II - In-Store",
@@ -278,11 +283,6 @@
   "first_seen": "2026-09-09",
   "title": "Backend Software Engineer, PDP Experience",
   "url": "https://jobicy.com/jobs/152815-backend-software-engineer-pdp-experience"
- },
- "8f5aa4c00b0bdd1d": {
-  "first_seen": "2026-09-01",
-  "title": "Full Stack Engineer (Enterprise)",
-  "url": "https://jobicy.com/jobs/152220-full-stack-engineer-enterprise"
  },
  "95eaa0074aa637d5": {
   "first_seen": "2026-09-03",
@@ -354,15 +354,15 @@
   "title": "Software Engineer, Frontend / Full Stack (Identity Platform)",
   "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform"
  },
- "d3c3e7a01d206ecd": {
-  "first_seen": "2026-09-01",
-  "title": "Full Stack Product Engineer Intern, Agent Native",
-  "url": "https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native"
- },
  "d8279a12d4646452": {
   "first_seen": "2026-09-20",
   "title": "Frontend Web Application Developer",
   "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141"
+ },
+ "d9f7da55f6910475": {
+  "first_seen": "2026-10-17",
+  "title": "Full-Stack Engineer \u2014 AI Authoring Platform",
+  "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900"
  },
  "daca1553663e3719": {
   "first_seen": "2026-09-03",
