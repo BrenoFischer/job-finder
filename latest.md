@@ -1,17 +1,15 @@
-# Job matches - 2026-10-18
+# Job matches - 2026-10-19
 
-**5 new role(s)** since the last run.
+**3 new role(s)** since the last run.
 
-## arbeitnow (2)
+## arbeitnow (1)
 
-- [Mobile Engineer - React Native (100% Remote) - Worldwide](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659) — **Tether Operations Limited** (Remote job) — _Data · Remote · Experienced_
-- [Fullstack Engineer - AgenticOps (100% Remote)](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/fullstack-engineer-agenticops-100-remote-united-kindom-441724) — **Tether Operations Limited** (Remote job) — _Data · Remote · Experienced_
+- [Fullstack Entwickler:in](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/fullstack-entwicklerin-zurich-17174) — **Coopers Group AG** (Zürich) — _Remote · IT · Befristeter arbeitsvertrag_
 
-## jobicy (2)
+## jobicy (1)
 
-- [Software Engineer II - Poland](https://jobicy.com/jobs/155678-software-engineer-ii-poland) — **Housecall Pro** (Poland) — _Senior_
-- [Full Stack Engineer](https://jobicy.com/jobs/155572-full-stack-engineer-6) — **Oddball** (USA) — _Any_
+- [Full Stack Software Engineer](https://jobicy.com/jobs/155744-full-stack-software-engineer-2) — **BetterHelp** (USA) — _Any_
 
-## remoteok (1)
+## remotive (1)
 
-- [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) — **Askable** (Remote) — _dev · python · javascript_
+- [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158) — **Askable** (Worldwide) — _C++ · docker · git_
