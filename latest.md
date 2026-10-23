@@ -1,13 +1,16 @@
-# Job matches - 2026-10-22
+# Job matches - 2026-10-23
 
-**4 new role(s)** since the last run.
+**7 new role(s)** since the last run.
 
 ## arbeitnow (1)
 
-- [Python &amp; Cloud Native Software Engineer (76078)](https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/python-amp-cloud-native-software-engineer-76078-winterthur-74030) — **IQ Plus AG** (Winterthur) — _Remote · Software Development · Unbefristeter arbeitsvertrag_
+- [Backend Software Engineer (m/f/d), Rust – AI-first E-commerce Tech](https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474) — **adstrong** (Berlin) — _Remote · Software Development · Permanent employment_
 
-## jobicy (3)
+## jobicy (6)
 
-- [C++/Rust Graphics and Windowing System Software Engineer - Mir](https://jobicy.com/jobs/151197-c-rust-graphics-and-windowing-system-software-engineer-mir) — **Canonical** (APAC,  EMEA) — _Any_
-- [Software Engineer (.NET)](https://jobicy.com/jobs/156146-software-engineer-net) — **LastPass** (Portugal) — _Any_
-- [Mobile Developer I - US Remote](https://jobicy.com/jobs/156228-mobile-developer-i-us-remote) — **PerfectServe** (USA) — _Senior_
+- [Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) – 100% Remote within Poland](https://jobicy.com/jobs/156547-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-poland-2) — **Docplanner** (Poland) — _Senior_
+- [Software Engineer (Go)](https://jobicy.com/jobs/156450-software-engineer-go) — **Paddle** (Ireland,  Portugal,  UK) — _Senior_
+- [Software Engineer/C Developer-PGD](https://jobicy.com/jobs/156380-software-engineer-c-developer-pgd) — **EDB** (EMEA) — _Any_
+- [Full Stack Engineer](https://jobicy.com/jobs/151415-full-stack-engineer) — **Roboflow** (USA) — _Senior_
+- [Fullstack Engineer](https://jobicy.com/jobs/151365-fullstack-engineer-2) — **Dispatch** (USA) — _Any_
+- [Backend Software Engineer, SDK](https://jobicy.com/jobs/156284-backend-software-engineer-sdk) — **LaunchDarkly** (USA) — _Any_
