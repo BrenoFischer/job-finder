@@ -1,16 +1,11 @@
-# Job matches - 2026-10-23
+# Job matches - 2026-10-24
 
-**7 new role(s)** since the last run.
+**5 new role(s)** since the last run.
 
-## arbeitnow (1)
+## jobicy (5)
 
-- [Backend Software Engineer (m/f/d), Rust – AI-first E-commerce Tech](https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474) — **adstrong** (Berlin) — _Remote · Software Development · Permanent employment_
-
-## jobicy (6)
-
-- [Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) – 100% Remote within Poland](https://jobicy.com/jobs/156547-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-poland-2) — **Docplanner** (Poland) — _Senior_
-- [Software Engineer (Go)](https://jobicy.com/jobs/156450-software-engineer-go) — **Paddle** (Ireland,  Portugal,  UK) — _Senior_
-- [Software Engineer/C Developer-PGD](https://jobicy.com/jobs/156380-software-engineer-c-developer-pgd) — **EDB** (EMEA) — _Any_
-- [Full Stack Engineer](https://jobicy.com/jobs/151415-full-stack-engineer) — **Roboflow** (USA) — _Senior_
-- [Fullstack Engineer](https://jobicy.com/jobs/151365-fullstack-engineer-2) — **Dispatch** (USA) — _Any_
-- [Backend Software Engineer, SDK](https://jobicy.com/jobs/156284-backend-software-engineer-sdk) — **LaunchDarkly** (USA) — _Any_
+- [Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics](https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics) — **Canonical** (Anywhere) — _Any_
+- [Software Engineer - Solutions Engineering](https://jobicy.com/jobs/149560-software-engineer-solutions-engineering) — **Canonical** (Anywhere) — _Senior_
+- [Software Engineer, Sustaining Engineering](https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering) — **Canonical** (Anywhere) — _Senior_
+- [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter) — **Canonical** (Anywhere) — _Any_
+- [Software Engineer - App Stores](https://jobicy.com/jobs/149552-software-engineer-app-stores) — **Canonical** (Anywhere) — _Any_
