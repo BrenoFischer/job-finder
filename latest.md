@@ -1,7 +1,3 @@
-# Job matches - 2026-10-27
+# Job matches - 2026-10-28
 
-**1 new role(s)** since the last run.
-
-## jobicy (1)
-
-- [Software Engineer, Agent](https://jobicy.com/jobs/151671-software-engineer-agent) — **Sierra** (Germany) — _Any_
+_No new matching roles today._
