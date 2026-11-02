@@ -1,9 +1,8 @@
-# Job matches - 2026-11-01
+# Job matches - 2026-11-02
 
-**3 new role(s)** since the last run.
+**2 new role(s)** since the last run.
 
-## jobicy (3)
+## jobicy (2)
 
-- [Forward Deployed Engineer - Software Engineer - United Kingdom](https://jobicy.com/jobs/158357-forward-deployed-engineer-software-engineer-united-kingdom) — **Elevenlabs** (UK) — _Any_
-- [Golang System Software Engineer - Containers / Virtualisation](https://jobicy.com/jobs/158296-golang-system-software-engineer-containers-virtualisation) — **Canonical** (EMEA,  LATAM,  Canada,  USA) — _Any_
-- [Full-Stack Engineer, AI Platform](https://jobicy.com/jobs/158260-full-stack-engineer-ai-platform) — **Thumbtack** (USA) — _Any_
+- [Software Engineer, Content Platform](https://jobicy.com/jobs/152261-software-engineer-content-platform) — **Reddit** (USA) — _Any_
+- [Full Stack Engineer (Enterprise)](https://jobicy.com/jobs/152220-full-stack-engineer-enterprise) — **Roboflow** (USA) — _Senior_
