@@ -1,8 +1,14 @@
-# Job matches - 2026-11-02
+# Job matches - 2026-11-03
 
-**2 new role(s)** since the last run.
+**5 new role(s)** since the last run.
 
-## jobicy (2)
+## arbeitnow (2)
 
-- [Software Engineer, Content Platform](https://jobicy.com/jobs/152261-software-engineer-content-platform) — **Reddit** (USA) — _Any_
-- [Full Stack Engineer (Enterprise)](https://jobicy.com/jobs/152220-full-stack-engineer-enterprise) — **Roboflow** (USA) — _Senior_
+- [Web Developer W / M gesucht](https://www.arbeitnow.com/jobs/companies/q-media-world/web-developer-w-m-gesucht-munich-128869) — **Q Media World** (Munich) — _Remote · Web Development · Freiberufler / selbstständiger_
+- [Software Engineer (Remote-Worldwide)](https://www.arbeitnow.nl/jobs/companies/your-software-supplier/software-engineer-remote-worldwide-amsterdam-489033) — **Your Software Supplier** (Amsterdam) — _Remote · Software Development · Freelancer / indepedent contractor_
+
+## jobicy (3)
+
+- [Juju Software Engineer (Go)](https://jobicy.com/jobs/158600-juju-software-engineer-go) — **Canonical** (EMEA) — _Any_
+- [Front End Software Engineer, Media Player](https://jobicy.com/jobs/158567-front-end-software-engineer-media-player) — **Reddit** (USA) — _Entry-Level, Junior_
+- [Front End Software Engineer, Consumer Engineering](https://jobicy.com/jobs/158562-front-end-software-engineer-consumer-engineering) — **Reddit** (USA) — _Entry-Level, Junior_
