@@ -59,6 +59,11 @@
   "title": "Software Engineer - Data Infrastructure - Kafka",
   "url": "https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka"
  },
+ "227a7f0dede9e657": {
+  "first_seen": "2026-11-08",
+  "title": "Software Developer in Observability",
+  "url": "https://jobicy.com/jobs/159583-software-developer-in-observability"
+ },
  "281312761aa9c9c1": {
   "first_seen": "2026-10-09",
   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
@@ -139,6 +144,11 @@
   "title": "Software Engineer, AI Enablement",
   "url": "https://jobicy.com/jobs/155051-software-engineer-ai-enablement"
  },
+ "491bb316e387dac5": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer, Automotive and Industrial Architecture",
+  "url": "https://jobicy.com/jobs/159585-software-engineer-automotive-and-industrial-architecture"
+ },
  "4a15513efb0a0277": {
   "first_seen": "2026-10-17",
   "title": "Software Engineer II",
@@ -153,6 +163,11 @@
   "first_seen": "2026-10-03",
   "title": "Software Engineer, Ceph & Distributed Storage",
   "url": "https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage"
+ },
+ "51a4a703c05df819": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer, Ceph & Distributed Storage",
+  "url": "https://jobicy.com/jobs/159587-software-engineer-ceph-distributed-storage-2"
  },
  "522c66c17fb71ffc": {
   "first_seen": "2026-10-31",
@@ -279,6 +294,11 @@
   "title": "Software Engineer \u2013 AI-Assisted Development (m/w/d)",
   "url": "https://www.arbeitnow.ch/jobs/companies/doccheck-ag/remote-software-engineer-ai-assisted-development-basel-371528"
  },
+ "804ac1f531c34fe2": {
+  "first_seen": "2026-11-08",
+  "title": "Full Stack Engineer",
+  "url": "https://jobicy.com/jobs/159681-full-stack-engineer-8"
+ },
  "81773fae9760b34f": {
   "first_seen": "2026-10-02",
   "title": "Fullstack Softwareentwickler (m/w/d)",
@@ -334,6 +354,11 @@
   "title": "Frontend Engineer - Design Systems",
   "url": "https://jobicy.com/jobs/158196-frontend-engineer-design-systems"
  },
+ "8b32dd70c1665a38": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer - Cross-platform C++ - Multipass",
+  "url": "https://jobicy.com/jobs/159588-software-engineer-cross-platform-c-multipass"
+ },
  "8dc749a98017a0f3": {
   "first_seen": "2026-09-25",
   "title": "Software Engineer",
@@ -348,6 +373,11 @@
   "first_seen": "2026-11-05",
   "title": "Frontend Engineer - User Interface",
   "url": "https://jobicy.com/jobs/159075-frontend-engineer-user-interface"
+ },
+ "92bc37423f077638": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer - Python/Golang - Kubernetes",
+  "url": "https://jobicy.com/jobs/159591-software-engineer-python-golang-kubernetes"
  },
  "9591c34a4dfcf25c": {
   "first_seen": "2026-10-22",
@@ -419,6 +449,11 @@
   "title": "Full-Stack Developer",
   "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
  },
+ "b26c09ba1551ddcd": {
+  "first_seen": "2026-11-08",
+  "title": "Full-Stack Engineer - Ads Engine",
+  "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-ads-engine-93467"
+ },
  "b2e5bf6e06405d93": {
   "first_seen": "2026-11-01",
   "title": "Forward Deployed Engineer - Software Engineer - United Kingdom",
@@ -464,6 +499,11 @@
   "title": "Software Engineer",
   "url": "https://jobicy.com/jobs/151472-software-engineer-8"
  },
+ "c06d1e83d6396aa5": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer - OpenStack",
+  "url": "https://jobicy.com/jobs/159590-software-engineer-openstack"
+ },
  "c0d2e3f203f83e85": {
   "first_seen": "2026-10-18",
   "title": "Software Engineer AI Coding Tasks",
@@ -493,11 +533,6 @@
   "first_seen": "2026-10-26",
   "title": "Software Engineer - Branching",
   "url": "https://jobicy.com/jobs/156947-software-engineer-branching"
- },
- "cb1d323cd60f9b54": {
-  "first_seen": "2026-09-23",
-  "title": "Software Engineer, Frontend / Full Stack (Identity Platform)",
-  "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform"
  },
  "cf7b6944c945b1ce": {
   "first_seen": "2026-11-03",
@@ -569,10 +604,20 @@
   "title": "Software Engineer",
   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
  },
+ "e4c9eaa662c8dd0d": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer - Data team",
+  "url": "https://jobicy.com/jobs/159520-software-engineer-data-team"
+ },
  "e5196cd93ef1f29b": {
   "first_seen": "2026-10-20",
   "title": "Full-Stack Engineer - Creative Agents",
   "url": "https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents"
+ },
+ "e55bb4407fb19553": {
+  "first_seen": "2026-11-08",
+  "title": "Full-Stack Engineer - ElevenCreative Enterprise",
+  "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-elevencreative-enterprise-233049"
  },
  "e687491b7cc34110": {
   "first_seen": "2026-11-06",
@@ -599,10 +644,10 @@
   "title": "Full-Stack Engineer - Ads Engine",
   "url": "https://jobicy.com/jobs/159123-full-stack-engineer-ads-engine"
  },
- "eded28f115a7944e": {
-  "first_seen": "2026-09-23",
-  "title": "Software Engineer - Data",
-  "url": "https://jobicy.com/jobs/149499-software-engineer-data"
+ "ee136a5b5314df5d": {
+  "first_seen": "2026-11-08",
+  "title": "Software Engineer - Edge AI",
+  "url": "https://jobicy.com/jobs/159589-software-engineer-edge-ai"
  },
  "eead4789afbabae3": {
   "first_seen": "2026-10-02",
@@ -618,6 +663,11 @@
   "first_seen": "2026-10-19",
   "title": "Software Engineer, AI Coding Tasks",
   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
+ },
+ "f9d50a2efb3af94c": {
+  "first_seen": "2026-11-08",
+  "title": "Full-Stack Engineer - Productions",
+  "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-productions-417254"
  },
  "fa8a1324a3461ad3": {
   "first_seen": "2026-10-18",
