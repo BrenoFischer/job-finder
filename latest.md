@@ -1,11 +1,11 @@
-# Job matches - 2026-11-17
+# Job matches - 2026-11-18
 
-**2 new role(s)** since the last run.
+**5 new role(s)** since the last run.
 
-## arbeitnow (1)
+## jobicy (5)
 
-- [Fullstack Consultant](https://www.arbeitnow.com/jobs/companies/fourenergy-gmbh/fullstack-consultant-berlin-242145) — **FourEnergy GmbH** (Berlin) — _Remote · Software Development · Unbefristeter arbeitsvertrag_
-
-## jobicy (1)
-
-- [AI Algorithms/Software Engineer](https://jobicy.com/jobs/162740-ai-algorithms-software-engineer) — **Mythic** (USA) — _Any_
+- [Full Stack Engineer](https://jobicy.com/jobs/163116-full-stack-engineer-10) — **BJAK** (Spain) — _Any_
+- [Full-Stack Engineer - ElevenMusic](https://jobicy.com/jobs/163113-full-stack-engineer-elevenmusic) — **Elevenlabs** (Denmark,  France,  Netherlands,  Poland,  UK,  USA) — _Any_
+- [Software Engineer](https://jobicy.com/jobs/163065-software-engineer-14) — **SingleStore** (Portugal) — _Any_
+- [Software Engineer - Auth](https://jobicy.com/jobs/153449-software-engineer-auth) — **Supabase** (Anywhere) — _Any_
+- [Software Engineer II (Frontend)](https://jobicy.com/jobs/162945-software-engineer-ii-frontend) — **Teamworks** (USA) — _Senior_
