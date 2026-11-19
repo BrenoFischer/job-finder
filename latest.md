@@ -1,11 +1,18 @@
-# Job matches - 2026-11-18
+# Job matches - 2026-11-19
 
-**5 new role(s)** since the last run.
+**6 new role(s)** since the last run.
 
-## jobicy (5)
+## arbeitnow (1)
 
-- [Full Stack Engineer](https://jobicy.com/jobs/163116-full-stack-engineer-10) — **BJAK** (Spain) — _Any_
-- [Full-Stack Engineer - ElevenMusic](https://jobicy.com/jobs/163113-full-stack-engineer-elevenmusic) — **Elevenlabs** (Denmark,  France,  Netherlands,  Poland,  UK,  USA) — _Any_
-- [Software Engineer](https://jobicy.com/jobs/163065-software-engineer-14) — **SingleStore** (Portugal) — _Any_
-- [Software Engineer - Auth](https://jobicy.com/jobs/153449-software-engineer-auth) — **Supabase** (Anywhere) — _Any_
-- [Software Engineer II (Frontend)](https://jobicy.com/jobs/162945-software-engineer-ii-frontend) — **Teamworks** (USA) — _Senior_
+- [Mobile Developer](https://www.arbeitnow.nl/jobs/companies/luscii/remote-mobile-developer-utrecht-286555) — **Luscii** (Remote job) — _Software Development · Remote · Mid_
+
+## jobicy (4)
+
+- [Backend Software Engineer - AI Finance Agent](https://jobicy.com/jobs/163259-backend-software-engineer-ai-finance-agent) — **BJAK** (Austria) — _Any_
+- [Android Software Engineer - AI Finance Agent](https://jobicy.com/jobs/163234-android-software-engineer-ai-finance-agent) — **BJAK** (Sweden) — _Any_
+- [Full Stack Software Engineer - AI Finance Agent](https://jobicy.com/jobs/163230-full-stack-software-engineer-ai-finance-agent) — **BJAK** (Netherlands) — _Any_
+- [Software Engineer - Agent Team](https://jobicy.com/jobs/163229-software-engineer-agent-team) — **Automox** (USA) — _Senior_
+
+## remoteok (1)
+
+- [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) — **Treatwell** (Remote) — _full stack · react · rabbitmq_
