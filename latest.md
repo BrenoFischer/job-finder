@@ -1,12 +1,12 @@
-# Job matches - 2026-11-20
+# Job matches - 2026-11-21
 
 **3 new role(s)** since the last run.
 
+## arbeitnow (1)
+
+- [Backend Software Developer](https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173) — **Dawn Technology** (Werken op afstand) — _Dawn Technology · Remote · Experienced_
+
 ## jobicy (2)
 
-- [Android Software Engineer](https://jobicy.com/jobs/163458-android-software-engineer) — **BJAK** (Germany) — _Any_
-- [Software Engineer, Application Integration](https://jobicy.com/jobs/153596-software-engineer-application-integration) — **Bayesian Health** (USA) — _Senior_
-
-## remoteok (1)
-
-- [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) — **Askable** (Remote) — _dev · golang · python_
+- [Software Engineer (Go)](https://jobicy.com/jobs/163586-software-engineer-go-2) — **Paddle** (Ireland,  Portugal,  UK) — _Senior_
+- [Software Engineer, Dash](https://jobicy.com/jobs/163567-software-engineer-dash) — **Liftoff** (USA) — _Any_
