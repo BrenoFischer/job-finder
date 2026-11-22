@@ -1,12 +1,9 @@
-# Job matches - 2026-11-21
+# Job matches - 2026-11-22
 
 **3 new role(s)** since the last run.
 
-## arbeitnow (1)
+## jobicy (3)
 
-- [Backend Software Developer](https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173) — **Dawn Technology** (Werken op afstand) — _Dawn Technology · Remote · Experienced_
-
-## jobicy (2)
-
-- [Software Engineer (Go)](https://jobicy.com/jobs/163586-software-engineer-go-2) — **Paddle** (Ireland,  Portugal,  UK) — _Senior_
-- [Software Engineer, Dash](https://jobicy.com/jobs/163567-software-engineer-dash) — **Liftoff** (USA) — _Any_
+- [Software Engineer (Remote - Contractor)](https://jobicy.com/jobs/163811-software-engineer-remote-contractor-2) — **Masabi** (Romania) — _Any_
+- [Founding Software Engineer - Vimes](https://jobicy.com/jobs/163768-founding-software-engineer-vimes) — **Pear VC** (USA) — _Any_
+- [Full-Stack Growth Engineer](https://jobicy.com/jobs/153701-full-stack-growth-engineer) — **Future PLC** (USA) — _Senior_
