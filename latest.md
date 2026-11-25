@@ -1,17 +1,16 @@
-# Job matches - 2026-11-24
+# Job matches - 2026-11-25
 
-**8 new role(s)** since the last run.
+**7 new role(s)** since the last run.
 
-## arbeitnow (1)
+## arbeitnow (5)
 
-- [Software Engineer: Core](https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673) — **Constructor** (Remote) — _Engineering · Full Time_
+- [Fullstack Software Engineer - Core Engineering](https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912) — **dataiku** (Remote) — _Engineering_
+- [Full Stack Developer (node.js)](https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-333211) — **Delta Capita** (Remote job) — _MACH · Remote · Mid_
+- [Fullstack Software Engineer - Core Engineering](https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174) — **dataiku** (Remote) — _Engineering_
+- [Développeur Full-Stack (Node.js / React / Flutter)](https://www.arbeitnow.fr/jobs/companies/ohana-entreprise/developpeur-full-stack-nodejs-react-flutter-paris-474619) — **OHana Entreprise** (Paris) — _Remote · Software Development · Travailleur indépendant / freelance_
+- [Full-stack Developer](https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-311610) — **ADOMIK** (Paris) — _Remote · Software Development · Self-employed/freelance (auto-entrepreneur/indépendant)_
 
-## jobicy (7)
+## jobicy (2)
 
-- [Software Engineer (L2) Supernetwork](https://jobicy.com/jobs/164140-software-engineer-l2-supernetwork) — **Twilio** (Ireland) — _Any_
-- [Backend Software Engineer — Secure Mission Systems](https://jobicy.com/jobs/164109-backend-software-engineer-secure-mission-systems) — **Rackner** (USA) — _Any_
-- [System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem](https://jobicy.com/jobs/164022-system-software-engineer-gcc-llvm-compiler-tooling-and-ecosystem) — **Canonical** (LATAM,  Canada,  USA) — _Senior_
-- [Software Engineer - Ubuntu Server Certification](https://jobicy.com/jobs/164021-software-engineer-ubuntu-server-certification) — **Canonical** (LATAM,  Canada,  USA) — _Senior_
-- [Software Engineer (Python/Linux/Packaging)](https://jobicy.com/jobs/164020-software-engineer-python-linux-packaging) — **Canonical** (LATAM,  Canada,  USA) — _Any_
-- [Software Engineer - Python - Cloud - graduate level](https://jobicy.com/jobs/164019-software-engineer-python-cloud-graduate-level) — **Canonical** (LATAM,  Canada,  USA) — _Any_
-- [Software Engineer, AI Transformation](https://jobicy.com/jobs/163995-software-engineer-ai-transformation) — **Goodleap** (USA) — _Any_
+- [Full Stack Developer - Java & React (f/m/d)](https://jobicy.com/jobs/164237-full-stack-developer-java-react-f-m-d-3) — **ecosio** (Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK) — _Any_
+- [Software Engineer III | Framework](https://jobicy.com/jobs/164274-software-engineer-iii-framework) — **ExtraHop** (USA) — _Senior_
