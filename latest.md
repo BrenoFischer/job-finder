@@ -1,9 +1,7 @@
-# Job matches - 2026-11-26
+# Job matches - 2026-11-27
 
-**3 new role(s)** since the last run.
+**1 new role(s)** since the last run.
 
-## jobicy (3)
+## jobicy (1)
 
-- [Software Engineer](https://jobicy.com/jobs/154031-software-engineer-11) — **Capital on Tap** (Portugal) — _Any_
-- [Full-Stack Engineer](https://jobicy.com/jobs/154022-full-stack-engineer-2) — **Elevenlabs** (Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Spain,  UK,  USA) — _Any_
-- [Full Stack Software Engineer](https://jobicy.com/jobs/164392-full-stack-software-engineer-4) — **BetterHelp** (USA) — _Any_
+- [Software Engineer](https://jobicy.com/jobs/164483-software-engineer-15) — **Twilio** (Ireland) — _Any_
